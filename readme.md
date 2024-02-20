@@ -32,9 +32,11 @@ This is a simple ToDo web application built using Django framework. The app allo
 2. Open your web browser and go to [http://localhost:8000](http://localhost:8000) to access the application.
 
 ## Screenshots
-![Login Page](screenshots/login_page.png)
-![Register Page](screenshots/register_page.png)
-![Tasks Page](screenshots/tasks_page.png)
+![Login Page](screenshots/login.png)
+![Register Page](screenshots/Register.png)
+![Tasks Page](screenshots/App.png)
+![Update Page](screenshots/Update.png)
+![Delete Page](screenshots/Delete.png)
 
 ## Contributing
 Contributions are welcome! If you want to contribute to this project, feel free to submit a pull request.
