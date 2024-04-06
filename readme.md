@@ -10,6 +10,17 @@ This is a simple ToDo web application built using Django framework. The app allo
 - Mark tasks as done
 - Update tasks
 
+## Api
+
+-  Added Restful api for models using djangorestframework
+
+- Api endPoint
+    ``` 
+    GET /api/task/
+    POST /api/task/
+
+    ```
+
 ## Installation
 1. Clone this repository:
     ```bash
@@ -42,6 +53,8 @@ This is a simple ToDo web application built using Django framework. The app allo
 ![Update Page](screenshots/Update.png)
 - Delete Page
 ![Delete Page](screenshots/Delete.png)
+- Api Page
+![Api Page](screenshots/api.png)
 
 ## Contributing
 Contributions are welcome! If you want to contribute to this project, feel free to submit a pull request.
